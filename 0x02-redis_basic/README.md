@@ -1,0 +1,2 @@
+# REDIS HASH TABLE
+
